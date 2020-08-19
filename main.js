@@ -1,3 +1,7 @@
 window.addEventListener("load", () =>{
-   alert("test")
+   image()
 });
+
+function image(){
+   alert("lol")
+}
