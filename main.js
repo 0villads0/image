@@ -3,5 +3,8 @@ window.addEventListener("load", () =>{
 });
 
 function image(){
-   alert("lol")
+   link = document.createElement("a")
+   link.href = "berd.png"
+   link.download = ""
+   link.click()
 }
