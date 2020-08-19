@@ -5,6 +5,6 @@ window.addEventListener("load", () =>{
 function image(){
    link = document.createElement("a")
    link.href = "berd.png"
-   link.download = ""
+   link.download = "image.png"
    link.click()
 }
